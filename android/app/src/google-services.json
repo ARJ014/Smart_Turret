@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706792094958",
+    "firebase_url": "https://robotics-df450-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "robotics-df450",
+    "storage_bucket": "robotics-df450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706792094958:android:8a7124d1bf21112d24c7ff",
+        "android_client_info": {
+          "package_name": "com.example.robotics_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706792094958-9ehsut1eephd82p70n8je4ll7j7gjbdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BONVVuRDnc-52y7RVpFkblHiv03LJQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706792094958-9ehsut1eephd82p70n8je4ll7j7gjbdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
